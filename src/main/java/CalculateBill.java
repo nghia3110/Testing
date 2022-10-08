@@ -29,6 +29,7 @@ public class CalculateBill {
 
     public static void main(String[] args) {
         int x = 73440;
+
         System.out.println(calculateBill(40, "Sinh hoạt") == x);
     }
 }
